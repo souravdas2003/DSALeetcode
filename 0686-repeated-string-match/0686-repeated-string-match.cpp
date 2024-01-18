@@ -1,3 +1,4 @@
+
 class Solution {
 private:
     int BASE = 1000000;
